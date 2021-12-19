@@ -1,4 +1,7 @@
-### Hi there 👋
+### Dear Recruiter 👋
+
+please visit my resume at here:
+[Link]https://tookasoft.github.io/tookasoft/
 
 <!--
 **tookasoft/tookasoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
